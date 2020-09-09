@@ -8,10 +8,16 @@ It gets attribute data of all patients which can further be utilized for analysi
 The purpose behind this application is to show how a data specific to any qeury be available from TigerGraph database
 and used in Power BI for typical tasks like Data Analysis, Visualization, Dashboarding etc.
 
+## Screenshots
+
+![](Images/Screenshot-Distrubution.PNG)
+
+![](Images/Screenshot-Trends.PNG)
+
 ## Prequisite:
 
 1. A solution created on covid-19 base present in TigeGraph.
-2 . Power BI tool
+2. Power BI Desktop.
 
 
 ## Steps:
